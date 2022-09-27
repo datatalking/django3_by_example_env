@@ -22,3 +22,4 @@ urlpatterns = [
 13. site should display text 'Hello, world. You're at the polls index.'
 
 Django Project Part2
+1. open up django3_by_example_env/mysite/mysite/settings.py
